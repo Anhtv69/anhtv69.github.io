@@ -1,0 +1,175 @@
+.bg-grey {
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
+
+/* banner */
+.img-banner {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  position: relative;
+  z-index: 1;
+}
+.banner {
+  position: relative;
+}
+
+/* link info */
+#nav-bar {
+  text-align: center;
+}
+.lilich {
+  margin-right: 100px;
+  border-left: solid 1px rgba(0, 0, 0, 0.322);
+  border-right: solid 1px rgba(0, 0, 0, 0.332);
+  padding: 35px 20px 10px 20px;
+}
+.chungchi {
+  margin-left: 100px;
+  border-left: solid 1px rgba(0, 0, 0, 0.322);
+  border-right: solid 1px rgba(0, 0, 0, 0.332);
+  padding: 35px 20px 10px 20px;
+}
+
+.personal a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+.personal {
+  padding: 20px 0;
+}
+
+/* avatar  */
+.avatar {
+  border: 10px white solid;
+  border-radius: 100%;
+  display: inline-block;
+  margin-top: -100px;
+  margin-left: -75px;
+  position: absolute;
+  z-index: 2;
+}
+
+/* personal information */
+.email {
+  width: 77%;
+}
+
+#about {
+  background-color: rgb(230, 230, 230);
+}
+.icon {
+  color: #199cdb;
+}
+
+div ul li {
+  list-style-type: none;
+  margin-left: -25px;
+}
+
+.info span,
+.bold-job-info {
+  font-weight: bold;
+}
+
+/* job info  */
+.bd {
+  /* background-color: lightblue; */
+  /* padding: 0 10px; */
+  margin: 0 5px !important;
+  border: solid 1px rgb(0, 0, 0);
+  border-radius: 15px;
+}
+
+/* màu cho submit  */
+.color-sub {
+  color: rgb(255, 255, 255);
+  background-color: white;
+  font-size: 20px;
+}
+.color-sub:hover {
+  background-color: bisque;
+  color: rgb(0, 0, 0);
+}
+
+/* size icon information */
+.icons-job-info {
+  font-size: xx-large;
+  padding-top: 13px;
+}
+
+/* lever của language và skills */
+.level {
+  background: #199cdb;
+  display: inline-block;
+  height: 2px;
+  margin-right: 10px;
+  width: 45px;
+}
+.level0 {
+  background-color: gray;
+}
+
+/* background và border cho năm */
+.nam {
+  position: relative;
+}
+.now {
+  position: absolute;
+  margin-top: -40px;
+  margin-left: 75px;
+  border: solid #199cdb 2px;
+  border-radius: 15px;
+  color: rgba(255, 255, 255, 0.848);
+  background-color: #199cdb;
+  padding: 0px 10px;
+}
+
+/* favourite */
+.content-word-spacing,
+.icons-word-spacing {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  font-size: 12px;
+  padding-top: 30px;
+}
+.border-icon-interest {
+  border: rgb(82, 107, 183) solid 1px;
+  border-radius: 50%;
+  padding: 8.5px;
+  width: 35px;
+  height: 35px;
+}
+
+/* ceftificate */
+
+.img-certificate {
+  max-width: 260px;
+  height: 120px;
+  padding-left: 10px;
+  padding-bottom: 20px;
+}
+
+/* project */
+
+.number2021 {
+  border: 1px #199cdb solid;
+  padding: 2px 8px;
+
+  border-radius: 80%;
+  background-color: #199cdb;
+  color: rgba(255, 255, 255, 0.848);
+}
+
+/* footer */
+#footer ul {
+  color: #000000b6;
+  display: grid;
+  grid-template-columns: 20% 20% 20%;
+  justify-content: center;
+  list-style-type: none;
+}
+
+/* ///////////// */

@@ -1,0 +1,21 @@
+#nav-bar {
+  margin: 200px auto;
+
+  padding: 0px;
+}
+.row {
+  --bs-gutter-x: 0 !important;
+}
+
+.icon,
+.icon0 {
+  font-size: 250%;
+  padding-top: 10px;
+}
+
+/* ///////////////// */
+.height-goals {
+  background-color: aquamarine;
+  /* height: fit-content; */
+  /* padding-bottom: 0px !important; */
+}

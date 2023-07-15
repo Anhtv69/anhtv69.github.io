@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+  /* xóa avatar */
+  .avatar {
+    display: none;
+  }
+
+  /*navbar */
+  .lilich {
+    margin-right: 20px;
+  }
+  .chungchi {
+    margin-left: 20px;
+  }
+
+  /* thu nhỏ footer vừa với trang */
+  .icon-ft {
+    font-size: 90%;
+  }
+}
